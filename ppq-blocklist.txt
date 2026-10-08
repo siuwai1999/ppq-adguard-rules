@@ -1,0 +1,10 @@
+! Title: Apple PPQ Blocklist
+! Description: Block Apple PPQ / validation / OCSP domains
+||ppq.apple.com^
+||appattest.apple.com^
+||certs.apple.com^
+||crl.apple.com^
+||ocsp.apple.com^
+||ocsp2.apple.com^
+||valid.apple.com^
+||vpp.itunes.apple.com^
